@@ -38,7 +38,10 @@ namespace WebApp_UnderTheHood.Pages.Account
                 };
                 var identity = new ClaimsIdentity(claims, "MyCookieAuth");
                 ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(identity);
-
+                var auth = new AuthenticationProperties
+                {
+                    IsPersistent = Credential.RememberMe
+                };
                 await HttpContext.SignInAsync("MyCookieAuth", claimsPrincipal);
 
                 return RedirectToPage("/Index");
@@ -55,5 +58,7 @@ namespace WebApp_UnderTheHood.Pages.Account
         [Required]
         [DataType(DataType.Password)]
         public string Password { get; set; }
+        [Display(Name = "Remember Me")]
+        public bool RememberMe { get; set; }
     }
 }
