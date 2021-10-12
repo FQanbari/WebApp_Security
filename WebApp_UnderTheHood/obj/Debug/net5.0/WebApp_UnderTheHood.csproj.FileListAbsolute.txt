@@ -50,7 +50,6 @@ D:\Proj\WebApp_Security\WebApp_UnderTheHood\bin\Debug\net5.0\ref\WebApp_UnderThe
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\bin\Debug\net5.0\WebApp_UnderTheHood.pdb
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\bin\Debug\net5.0\WebApp_UnderTheHood.Views.dll
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\bin\Debug\net5.0\WebApp_UnderTheHood.Views.pdb
-D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\WebApp_UnderTheHood.csprojAssemblyReference.cache
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\WebApp_UnderTheHood.GeneratedMSBuildEditorConfig.editorconfig
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\WebApp_UnderTheHood.AssemblyInfoInputs.cache
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\WebApp_UnderTheHood.AssemblyInfo.cs
@@ -84,3 +83,6 @@ D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\Razor\Pages\HumanRe
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\Razor\Pages\Account\AccessDenied.cshtml.g.cs
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\Razor\Pages\Settings.cshtml.g.cs
 D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\Razor\Pages\HRManager.cshtml.g.cs
+D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\Razor\Pages\Account\Logout.cshtml.g.cs
+D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\Razor\Pages\Shared\_LoginStatusPatial.cshtml.g.cs
+D:\Proj\WebApp_Security\WebApp_UnderTheHood\obj\Debug\net5.0\WebApp_UnderTheHood.csprojAssemblyReference.cache
